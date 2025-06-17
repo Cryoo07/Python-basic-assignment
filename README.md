@@ -1,5 +1,5 @@
 README
-Project Title: Library & Zoo Management System
+Library & Zoo Management System
 Description:
 This Python project is divided into two parts:
 
